@@ -1,0 +1,4 @@
+[submodule "children-a"]
+	path = children-a
+	url = git@github.com:endyjasmi/submodule-children-a.git
+	branch = main
