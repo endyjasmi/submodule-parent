@@ -1,7 +1,0 @@
-[submodule "children-a"]
-	path = submodule-children-a
-	url = https://github.com/endyjasmi/submodule-children-a
-[submodule "submodule-children-b"]
-	path = submodule-children-b
-	url = https://github.com/endyjasmi/submodule-children-b
-	branch = main
