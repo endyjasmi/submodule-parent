@@ -1,0 +1,3 @@
+[submodule "children-a"]
+	path = submodule-children-a
+	url = https://github.com/endyjasmi/submodule-children-a
