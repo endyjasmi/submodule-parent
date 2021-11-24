@@ -1,2 +1,2 @@
-# SubModule Parent
+# Submodule Example
 
