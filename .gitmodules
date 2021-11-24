@@ -2,3 +2,7 @@
 	path = children-a
 	url = git@github.com:endyjasmi/submodule-children-a.git
 	branch = main
+[submodule "children-b"]
+	path = children-b
+	url = git@github.com:endyjasmi/submodule-children-b.git
+	branch = main
